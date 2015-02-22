@@ -6,6 +6,7 @@ package matrix;
 public class matrix {
     public static void main(String[] args) {
         System.out.print("Hello Motherfucker!");
+        System.out.println("bloody hell!!!");
 
     }
 }
